@@ -1,7 +1,7 @@
 # Data Science Tools study guides for MIT's 15.003
 
 ## Goal
-This repository aims at summing up in the same place all the important notions that are covered in MIT's 15.003 Data Science Tools course, and includes **study guides** for SQL, R, Git/Bash.
+This repository aims at summing up in the same place all the important notions that are covered in MIT's 15.003 Data Science Tools course, and includes **study guides** for SQL, R, Git and Bash.
 
 ## Content
 #### Study guides
