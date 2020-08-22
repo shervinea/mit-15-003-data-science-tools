@@ -19,7 +19,7 @@ This repository aims at summing up in the same place all the important notions t
 |Data manipulation|Visualization|
 
 #### Super study guide
-|<a href="https://github.com/shervinea/mit-15-003-data-science-tools/blob/master/en/super-study-guide-data-science-tools.pdf"><img src="https://www.mit.edu/~amidi/teaching/data-science-tools/illustrations/cover/en-001.png?1" alt="Illustration" width="220px"/></a>|
+|<a href="https://github.com/shervinea/mit-15-003-data-science-tools/blob/master/en/super-study-guide-data-science-tools.pdf"><img src="https://www.mit.edu/~amidi/teaching/data-science-tools/illustrations/cover/en-001.png?1" alt="Illustration" width="400px"/></a>|
 |:--:|
 |Data manipulation|
 
