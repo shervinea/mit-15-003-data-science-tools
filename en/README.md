@@ -24,7 +24,7 @@ This repository aims at summing up in the same place all the important notions t
 #### Super study guide
 |<a href="https://github.com/shervinea/mit-15-003-data-science-tools/blob/master/en/super-study-guide-data-science-tools.pdf"><img src="https://www.mit.edu/~amidi/teaching/data-science-tools/illustrations/cover/en-009.png" alt="Illustration" width="400px"/></a>|
 |:--:|
-|Data manipulation|
+|All the above gathered in one place|
 
 ## Website
 This material is also available on a dedicated [website](https://www.mit.edu/~amidi/teaching/data-science-tools/), so that you can enjoy reading it from any device.
